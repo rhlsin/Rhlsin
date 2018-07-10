@@ -1,2 +1,2 @@
-It is the small project that i have made for my finall year project is Weather Forecast Cum Schedular, 
-And it ts the full functional Gui Based Project And the technology we used in this project is Python and PyQt.
+It is the small Weather Forecast Cum Schedular, 
+And it ts the full functional Applicational project.
